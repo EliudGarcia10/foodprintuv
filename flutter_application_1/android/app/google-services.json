@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "883507267138",
+    "project_id": "foodprintuv-91bde",
+    "storage_bucket": "foodprintuv-91bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883507267138:android:c51a8d516dee4a1a220fdb",
+        "android_client_info": {
+          "package_name": "app.firebase.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnZLvI89Zp8SayZgSrsqDgLM1ZTe3FEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883507267138:android:95814e50ef56a49f220fdb",
+        "android_client_info": {
+          "package_name": "com.example.app_firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnZLvI89Zp8SayZgSrsqDgLM1ZTe3FEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883507267138:android:1915ed63419e5dc1220fdb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnZLvI89Zp8SayZgSrsqDgLM1ZTe3FEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
